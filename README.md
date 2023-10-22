@@ -13,6 +13,5 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 |Statistics||||Ch4|
 | Decision Theory| Zhen Qiu| | |Ch5|
 Linear Regression Model|Esben Scriver Andersen 
-|
 
 
