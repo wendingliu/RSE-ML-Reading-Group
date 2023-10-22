@@ -6,11 +6,13 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 - Location: Fred Gruen Economics Seminar Room
 - Book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin Murphy
 
-| Speaker | Topic | Date | Reference |
-|-------|--------|---------|---------|
-|Jianhua Mei| Introduction to Machine Learning | 23/10/2023 | Ch1 |
-|Wending Liu| Probability Theory | 23/10/2023 | Ch2 \& Ch3|
-|Esben Scriver Andersen| Linear Regression Model|
-| | |
-|Zhen Qiu| Decision Theory| | |
+|Topic | Speaker | Date | Slides and Code | Reference|
+|-------|--------|---------|---------|-------|
+| Introduction to Machine Learning | Jianhua Mei|23/10/2023| | Ch1 |
+| Probability Theory |Wending Liu| 23/10/2023 | [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/probability_theory)|Ch2 \& Ch3|
+|Statistics||||Ch4|
+| Decision Theory| Zhen Qiu| | |Ch5|
+Linear Regression Model|Esben Scriver Andersen 
+|
+
 
