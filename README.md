@@ -11,8 +11,8 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 | Introduction to Machine Learning | Jianhua Mei|23/10/2023| | Ch1 |
 | Probability Theory |Wending Liu| 23/10/2023 | [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/probability_theory)|Ch2 \& Ch3|
 |Statistics| Wending Liu | 30/10/2023 | |Ch4|
-| Decision Theory| Zhen Qiu| | |Ch5|
-| Information Theory| Jianhua Mei| | |Ch6|
-Linear Regression Model|Esben Scriver Andersen 
+| Decision Theory| Zhen Qiu| 06/11/2023 | |Ch5|
+| Information Theory| Jianhua Mei| 13/11/2023 | |Ch6|
+|Optimization and Logistic Regression|Esben Scriver Andersen| 20/11/2023| |Ch8, Ch9 \& Ch10
 
 
