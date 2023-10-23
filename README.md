@@ -4,7 +4,7 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 
 - Time: 4:00-6:00 pm, every Monday
 - Location: Fred Gruen Economics Seminar Room
-- Book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin Murphy
+- Book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy
 
 |Topic | Speaker | Date | Slides \& Code | Reference|
 |-------|--------|---------|---------|-------|
