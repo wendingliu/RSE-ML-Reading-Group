@@ -2,7 +2,7 @@
 
 Machine Learning and Econometrics Reading Group, RSE, ANU 
 
-- Time: 4:00-6:00 p.m. Oct 30; 2:30-4:30 p.m., every Monday starting from Nov 6 **(updated!)**
+- Time: 2:30-4:30 p.m., every Monday **(updated!)**
 - Location: Fred Gruen Economics Seminar Room
 - Book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy
 
