@@ -12,7 +12,7 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 | Probability Theory |Wending Liu| 23/10/2023 | [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/probability_theory)|Ch2 \& Ch3|
 |Statistics| Wending Liu | 30/10/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/statistics) |Ch4|
 | Information Theory| Jianhua Mei| 06/11/2023 | [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Information%20Theory) |Ch6|
-| Decision Theory| Nik Chow| 13/11/2023 | |Ch5|
+| Decision Theory| Nik Chow| 13/11/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Decision%20Theory) |Ch5|
 |Optimization and Logistic Regression|Esben Scriver Andersen| 20/11/2023| |Ch8, Ch9 \& Ch10
 |Linear Regression| Zhen Qiu| 27/11/2023| |Ch11
 |Neural Networks for Structured Data| | | |Ch13|
