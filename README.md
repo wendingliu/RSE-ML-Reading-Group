@@ -15,8 +15,9 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 | Decision Theory| Nik Chow| 13/11/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Decision%20Theory) |Ch5|
 |Optimization and Logistic Regression|Esben Scriver Andersen| 20/11/2023| [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Optimization-and-Logistic-Regression) |Ch8, Ch9 \& Ch10|
 |Linear Regression| Zhen Qiu| 27/11/2023| |Ch11
-|Neural Networks for Structured Data and Images| Wending Liu|04/12/2023 | |Ch13 \& 14|
-|Neural Networks for Sequences| Jianhua Mei| 11/12/2023| |Ch15|
+|Building Simple Neural Networks from Scratch| Wending Liu |04/12/2023 |||
+|Convolution and Recurrent Neural Networks| Jianhua Mei| 04/12/2023 |||
 |**Semester Break**||||
 |Nonparametric Models| Thomas Tao Yang|||Ch16, Ch17 \& Ch18|
-
+|Neural Networks for Structured Data and Images| Wending Liu| | |Ch13 \& 14|
+|Neural Networks for Sequences| Jianhua Mei| | |Ch15|
