@@ -14,9 +14,9 @@ Machine Learning and Econometrics Reading Group, RSE, ANU
 | Information Theory| Jianhua Mei| 06/11/2023 | [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Information%20Theory) |Ch6|
 | Decision Theory| Nik Chow| 13/11/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Decision%20Theory) |Ch5|
 |Optimization and Logistic Regression|Esben Scriver Andersen| 20/11/2023| [download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Optimization-and-Logistic-Regression) |Ch8, Ch9 \& Ch10|
-|Linear Regression| Zhen Qiu| 27/11/2023| |Ch11
-|Building Simple Neural Networks from Scratch| Wending Liu |04/12/2023 |||
-|Convolution and Recurrent Neural Networks| Jianhua Mei| 04/12/2023 |||
+|Linear Regression| Zhen Qiu| 27/11/2023|[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/Linear-Regression) |Ch11|
+|Building Simple Neural Networks from Scratch| Wending Liu |04/12/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/SimpleNeuralNet)||
+|Building Simple Neural Networks using TensorFlow| Jianhua Mei| 04/12/2023 |[download](https://github.com/wendingliu/RSE-ML-Reading-Group/tree/main/learning_materials/SimpleNeuralNet_Tensorflow)||
 |**Semester Break**||||
 |Nonparametric Models| Thomas Tao Yang|||Ch16, Ch17 \& Ch18|
 |Neural Networks for Structured Data and Images| Wending Liu| | |Ch13 \& 14|
